@@ -1,0 +1,48 @@
+commit fd34c879c11b9070dd036f304a6684ce519ec34a
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Fri Sep 10 04:05:33 2021 -0400
+
+    Update spell ID for TBC
+
+commit 0eca825d9a2043a4a61bd44eb1e23137f2976b32
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Sat Mar 6 17:28:12 2021 -0500
+
+    Remove gryphon removal
+
+commit 16e2c62729a541bdf91be1842286bbeb94a36fb9
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Sun Feb 28 23:37:45 2021 -0500
+
+    Update Blizzard spell ID
+
+commit dc09f59a9f5bcfc2c7804b08042682114e27f35f
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Wed Feb 24 11:17:42 2021 -0500
+
+    Stop music on cast end
+
+commit 8ff7903bd10d42658d5ca42df227b14364aa61a2
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Wed Feb 24 11:06:01 2021 -0500
+
+    Add Africa sound effect
+
+commit 710c94b9e7c5b438fb50af2c97d5ad3f0bee474f
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Wed Feb 24 00:48:11 2021 -0500
+
+    Add spellcast start event
+
+commit 532db97f05258dd84bb0bd4ccf09bcb35757c6ff
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Tue Feb 23 19:06:38 2021 -0500
+
+    Init addon on enter world
+
+commit 57a9a43139f37e64e69141548eddea19602615e9
+Author: Andrew Brainerd <drwb333@gmail.com>
+Date:   Tue Feb 23 19:01:59 2021 -0500
+
+    Initial commit
+
